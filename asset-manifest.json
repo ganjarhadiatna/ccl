@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ccl/static/css/main.c9d34c10.chunk.css",
-    "main.js": "/ccl/static/js/main.2edd7cae.chunk.js",
-    "main.js.map": "/ccl/static/js/main.2edd7cae.chunk.js.map",
+    "main.css": "/ccl/static/css/main.c3778b7b.chunk.css",
+    "main.js": "/ccl/static/js/main.01766292.chunk.js",
+    "main.js.map": "/ccl/static/js/main.01766292.chunk.js.map",
     "runtime~main.js": "/ccl/static/js/runtime~main.973e9158.js",
     "runtime~main.js.map": "/ccl/static/js/runtime~main.973e9158.js.map",
     "static/js/2.3534b24d.chunk.js": "/ccl/static/js/2.3534b24d.chunk.js",
     "static/js/2.3534b24d.chunk.js.map": "/ccl/static/js/2.3534b24d.chunk.js.map",
     "index.html": "/ccl/index.html",
-    "precache-manifest.db02be621bf739a95043f3944003f7de.js": "/ccl/precache-manifest.db02be621bf739a95043f3944003f7de.js",
+    "precache-manifest.4442920c52f8d904224e80d55166020c.js": "/ccl/precache-manifest.4442920c52f8d904224e80d55166020c.js",
     "service-worker.js": "/ccl/service-worker.js",
-    "static/css/main.c9d34c10.chunk.css.map": "/ccl/static/css/main.c9d34c10.chunk.css.map",
+    "static/css/main.c3778b7b.chunk.css.map": "/ccl/static/css/main.c3778b7b.chunk.css.map",
     "static/media/app.css": "/ccl/static/media/Ubuntu-Regular.6bb9beb4.ttf",
     "static/media/all.min.css": "/ccl/static/media/fa-solid-900.fb493903.woff2"
   }
