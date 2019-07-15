@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ccl/static/css/main.1736eb5f.chunk.css",
+    "main.js": "/ccl/static/js/main.b8fd237f.chunk.js",
+    "main.js.map": "/ccl/static/js/main.b8fd237f.chunk.js.map",
+    "runtime~main.js": "/ccl/static/js/runtime~main.973e9158.js",
+    "runtime~main.js.map": "/ccl/static/js/runtime~main.973e9158.js.map",
+    "static/js/2.b6452fdd.chunk.js": "/ccl/static/js/2.b6452fdd.chunk.js",
+    "static/js/2.b6452fdd.chunk.js.map": "/ccl/static/js/2.b6452fdd.chunk.js.map",
+    "index.html": "/ccl/index.html",
+    "precache-manifest.38dd30242fde7e1b396a49b3ebdece63.js": "/ccl/precache-manifest.38dd30242fde7e1b396a49b3ebdece63.js",
+    "service-worker.js": "/ccl/service-worker.js",
+    "static/css/main.1736eb5f.chunk.css.map": "/ccl/static/css/main.1736eb5f.chunk.css.map",
+    "static/media/app.css": "/ccl/static/media/Ubuntu-Regular.6bb9beb4.ttf",
+    "static/media/all.min.css": "/ccl/static/media/fa-solid-900.fb493903.woff2"
+  }
+}
